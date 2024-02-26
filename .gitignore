@@ -1,6 +1,9 @@
 # Arquivos de compilação
 
+.gitignore
+
 # Diretório de dependências
+
 /materiais
 
 # Arquivos de configuração específicos do usuário
